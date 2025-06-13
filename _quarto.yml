@@ -1,14 +1,13 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "STA303 Course Guide"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Mini Mixed Assessment"
-        href: mini-mixed-assessment.qmd
 
 format:
   html:
@@ -16,5 +15,3 @@ format:
     toc: true
     toc-depth: 2
     css: styles.scss   # optional
-
-output-dir: docs
