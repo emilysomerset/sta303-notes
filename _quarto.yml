@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "STA303 Course Guide"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Mini Mixed Assessment"
+        href: mini-mixed-assessment.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: styles.scss   # optional
+
+output-dir: docs

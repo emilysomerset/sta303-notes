@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mini-mixed-assessment.html",
+    "href": "mini-mixed-assessment.html",
+    "title": "Mini Mixed Assessment",
+    "section": "",
+    "text": "This activity assesses your ability to apply key concepts from STA303…"
+  },
+  {
+    "objectID": "mini-mixed-assessment.html#overview",
+    "href": "mini-mixed-assessment.html#overview",
+    "title": "Mini Mixed Assessment",
+    "section": "",
+    "text": "This activity assesses your ability to apply key concepts from STA303…"
+  },
+  {
+    "objectID": "mini-mixed-assessment.html#part-1-short-answer",
+    "href": "mini-mixed-assessment.html#part-1-short-answer",
+    "title": "Mini Mixed Assessment",
+    "section": "Part 1: Short Answer",
+    "text": "Part 1: Short Answer\nAnswer the following questions concisely.\n\nWhat is the main difference between…\nHow does a Bayesian approach…"
+  },
+  {
+    "objectID": "mini-mixed-assessment.html#part-2-r-coding",
+    "href": "mini-mixed-assessment.html#part-2-r-coding",
+    "title": "Mini Mixed Assessment",
+    "section": "Part 2: R Coding",
+    "text": "Part 2: R Coding\nUse the following dataset to…\n```{r} #| echo: true data(mtcars) summary(mtcars)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sta303-notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
