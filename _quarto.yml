@@ -1,17 +1,36 @@
 project:
-  type: website
+  type: book
   output-dir: docs
-  
-website:
-  title: "STA303 Course Guide"
-  navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
+
+book:
+  title: "STA303 Lecture Notes"
+  author: "Emily Somerset"
+  chapters:
+    - index.qmd
+    - linear_regression_review.qmd
+  site-url: https://emilysomerset.github.io/sta303-notes/
+  repo-url: https://github.com/emilysomerset/sta303-notes
+  repo-branch: main
+  search: true
+  downloads: [pdf]
+  page-footer: "Copyright 2026, Emily Somerset" 
 
 format:
   html:
     theme: cosmo
     toc: true
-    toc-depth: 2
-    css: styles.scss   # optional
+    number-sections: true
+    reader-mode: true
+    fig-align: center
+    toc-location: right
+    code-fold: false
+    code-summary: "Code"
+    code-overflow: wrap
+    code-block-border-left: true
+    code-copy: true
+    engine: knitr
+    default-image-extension: png
+  pdf:
+    toc: true
+    number-sections: true
+    output-file: sta303-notes.pdf

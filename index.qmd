@@ -1,11 +1,12 @@
 ---
-title: "sta303-notes"
+title: "STA303: Methods of Data Analysis II"
+format:
+  html: default
+  pdf: default
 ---
 
-This is a Quarto website.
+Welcome to the course notes for **STA303**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+These notes contain lecture content for the term, including worked examples, visualizations, and summaries of key concepts.
 
-```{r}
-1 + 1
-```
+Use the navigation on the left to access each lecture. You can also download the full notes as a PDF via the "Other formats" link.

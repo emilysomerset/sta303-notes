@@ -1,16 +1,32 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sta303-notes",
+    "title": "STA303 Lecture Notes",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the course notes for STA303.\nThese notes contain lecture content for the term, including worked examples, visualizations, and summaries of key concepts.\nUse the navigation on the left to access each lecture. You can also download the full notes as a PDF via the “Other formats” link.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>STA303: Methods of Data Analysis II</span>"
+    ]
+  },
+  {
+    "objectID": "linear_regression_review.html",
+    "href": "linear_regression_review.html",
+    "title": "2  Linear Regression Review",
+    "section": "",
+    "text": "2.1 Data",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Linear Regression Review</span>"
+    ]
+  },
+  {
+    "objectID": "linear_regression_review.html#linear-regression",
+    "href": "linear_regression_review.html#linear-regression",
+    "title": "2  Linear Regression Review",
+    "section": "2.2 Linear regression",
+    "text": "2.2 Linear regression",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Linear Regression Review</span>"
+    ]
   }
 ]

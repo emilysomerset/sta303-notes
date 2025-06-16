@@ -1,0 +1,14 @@
+---
+title: "Linear Regression Review"
+format:
+  html: default
+  pdf: default
+---
+
+## Data
+
+
+
+## Linear regression
+
+
